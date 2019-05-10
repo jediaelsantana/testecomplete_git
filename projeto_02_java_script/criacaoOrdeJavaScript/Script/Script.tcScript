@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Microsoft Office 12.0 Access Database Engine OLE DB Provider">
+			<child name="Cen_01_criacao_order" key="{BFA05284-0D60-4FEB-BA0A-EF449D8ED511}" path="Cen_01_criacao_order.js" />
+			<child name="Cen_02_criacao_order_excel" key="{D1295995-9EB1-496A-980F-22BC57605629}" path="Cen_02_criacao_order_excel.js" />
+		</folder>
+		<folder name="Util">
+			<child name="Functions" key="{A34F7940-6DA5-4CD3-987D-CA7DD6FE8607}" path="Functions.js" />
+		</folder>
+		<folder name="Componente">
+			<child name="Comp_01_configuracao_inicial" key="{3C8983DE-720D-4746-A89C-E228FD4635B2}" path="Comp_01_configuracao_inicial.js" />
+			<child name="Comp_02_grid_inicial_order" key="{9D206FAC-F33D-4101-B4DD-E645913A2088}" path="Comp_02_grid_inicial_order.js" />
+			<child name="Comp_03_criacao_order" key="{088620CA-1FC4-46F7-843D-27F58A12FA8C}" path="Comp_03_criacao_order.js" />
+			<child name="comp_04_verificar_existencia_order" key="{84923FDC-56E2-4AF7-83E9-14DB1A397381}" path="comp_04_verificar_existencia_order.js" />
+			<child name="inserir_date" key="{2D112EF5-8FA5-4541-9CE2-58926557F4DE}" path="inserir_date.js" />
+		</folder>
+	</children>
+</Root>

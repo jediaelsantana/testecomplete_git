@@ -1,0 +1,4 @@
+﻿function abrir_aplicacao()
+{
+  TestedApps.Orders.Run();
+}

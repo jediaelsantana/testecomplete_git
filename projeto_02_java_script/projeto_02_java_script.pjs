@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{B3ECEEBC-7405-48BF-B258-80382531E79A}">
+	<children>
+		<child name="criacaoOrdeJavaScript" key="{E86FDAE3-554E-478E-9117-BDC876E208C1}" path="criacaoOrdeJavaScript\criacaoOrdeJavaScript.mds" />
+	</children>
+	<testItems key="{8D87403D-AF56-4472-B44D-21F43F8E2E02}">
+		<children>
+			<testItem key="{E86FDAE3-554E-478E-9117-BDC876E208C1}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{924B3E58-0B74-41C5-BE70-7A6F7DD3B23C}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{0EEBB251-A17A-455C-8539-00C9908C69B6}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
+</Root>
