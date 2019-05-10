@@ -14,6 +14,7 @@
 			<child name="Comp_03_criacao_order" key="{088620CA-1FC4-46F7-843D-27F58A12FA8C}" path="Comp_03_criacao_order.js" />
 			<child name="comp_04_verificar_existencia_order" key="{84923FDC-56E2-4AF7-83E9-14DB1A397381}" path="comp_04_verificar_existencia_order.js" />
 			<child name="inserir_date" key="{2D112EF5-8FA5-4541-9CE2-58926557F4DE}" path="inserir_date.js" />
+			<child name="Comp_05_Daniel" key="{4D27E760-FD53-43AD-A4C4-63E9E578315E}" path="Comp_05_Daniel.js" />
 		</folder>
 	</children>
 </Root>

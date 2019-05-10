@@ -21,19 +21,21 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{B3ECEEBC-7405-48BF-B258-80382531E79A}"/>
+				<Prp name="activity" type="S" value="{4D27E760-FD53-43AD-A4C4-63E9E578315E}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
+							<Node name="{18d21374-749a-4b12-9591-aeba7c5332a9}"/>
 							<Node name="{531ace08-e68e-400b-9eb9-e24763725fd8}">
 								<Prp name="key" type="S" value="{4A45E31F-9021-4CA1-AF34-3DDF6F4F5B2C}"/>
 							</Node>
 							<Node name="{9185a4c3-0780-497d-b02d-ad3af4e9cf98}">
 								<Prp name="key" type="S" value="{E602690B-DA1A-44AC-9521-B02B31DAF6F9}"/>
 							</Node>
+							<Node name="{98f67204-5328-4e0e-99f5-6d1b1e6d4971}"/>
 							<Node name="{d26a70c5-94dd-4095-922f-2de8d44eae70}">
 								<Prp name="key" type="S" value="{66121C43-AE43-4E76-AA13-3383A2783A26}"/>
 							</Node>
@@ -221,6 +223,7 @@
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
+					<Node name="{4d27e760-fd53-43ad-a4c4-63e9e578315e}"/>
 					<Node name="{7cc292c4-4723-4d7f-bd4c-326534db48b6}">
 						<Node name="0">
 							<Prp name="bottom" type="I" value="5"/>
@@ -365,7 +368,18 @@
 				<Node name="{02542b04-194a-4903-b727-27ddea5f3f24}"/>
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
-			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}"/>
+			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
+				<Node name="projeto_02_java_script">
+					<Node name="criacaoordejavascript">
+						<Node name="script">
+							<Node name="componente"/>
+							<Node name="microsoft office 12.0 access database engine ole db provider"/>
+							<Node name="util"/>
+						</Node>
+						<Node name="testedapps"/>
+					</Node>
+				</Node>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
 	</Node>
